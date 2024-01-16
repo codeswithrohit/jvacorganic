@@ -17,7 +17,7 @@ const About = () => {
             <div className="col-lg-6">
               <div className="about-three-content rmb-35 wow fadeInLeft delay-0-2s">
                 <div className="section-title mb-20">
-                  <span className="sub-title mb-20">About Company</span>
+                  <span className="sub-title mb-20">About </span>
                   <h2>Organic &amp; Helathy Foods Provider Farming</h2>
                 </div>
                 <p>

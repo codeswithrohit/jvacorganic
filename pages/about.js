@@ -21,10 +21,7 @@ const About = () => {
                   <h2>Organic &amp; Helathy Foods Provider Farming</h2>
                 </div>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus sit voluptatem
-                  accusantium doloremque laudantium, totam rem aperiam, eaque
-                  ipsa quae ab illo inventore veritatis et quasi architecto
-                  beatae vitae dicta sunt explicabo enim voluptatem
+                  Sed ut perspiciatis unde omnis iste natus 
                 </p>
                 <div className="row mt-30">
                   <div className="col-md-6">
